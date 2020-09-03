@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 I'm Matheus Domingos, a Full Stack Developer Student at [Trybe](trybe.com):rocket:.
-- 🌱 At moment I'm focused on improve my skills as a web developer
-- :book: I'm interested: Node, Ruby, PostgreSQL, MySQL
-- :computer: Technologies: JS, HTML, CSS, React, Redux, Context API.
+- 🔭 I'm always focused on improve my skills as a web developer.
+- 🌱 At moment I'm studying backend development.
+- :book: I'm interested: Node, Ruby, PostgreSQL, MySQL.
 
 Tools and frameworks:
 <p align="left">

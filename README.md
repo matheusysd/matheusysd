@@ -41,10 +41,10 @@ Tools and frameworks:
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusysd&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusysd&layout=compact&theme=graywhite&title_color=268bd2" alt="matheusysd" width="250" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusysd&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="matheusysd" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusysd&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="matheusysd" width="400"/>
 </p>
 
 

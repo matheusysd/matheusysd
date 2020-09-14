@@ -1,5 +1,4 @@
 # Matheus Domingos [![Linkedin Badge](https://img.shields.io/badge/-matheusysd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusysd/)](https://www.linkedin.com/in/matheusysd/) [![Gmail Badge](https://img.shields.io/badge/-matheusysd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusysd@gmail.com)](mailto:matheusysd@gmail.com) [![Codewars Badge](https://www.codewars.com/users/matheusysd/badges/micro)](https://www.codewars.com/users/matheusysd/badges/micro)
-### Hey you,👋
 
 <!--
 **matheusysd/matheusysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,28 +15,30 @@ Here are some ideas to get you started:
 -->
 
 
+Hi there, I'm Matheus Domingos, a Full Stack Software Development Student from Brazil. Currently I'm studying at [Trybe](https://www.betrybe.com/):rocket:.
 
-
-I'm Matheus Domingos, a Full Stack Developer Student at [Trybe](trybe.com):rocket:.
 - 🔭 I'm always focused on improve my skills as a web developer.
 - 🌱 At moment I'm studying backend development.
-- :book: I'm interested: Node, Ruby, PostgreSQL, MySQL.
+- :book: I'm interested in Node, Ruby, PostgreSQL, MySQL.
 
-Tools and frameworks:
+Languages, tools and frameworks:
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+  <code>
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="30" /> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="30"/> 
+    <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" height="30" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" height="30" /> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" height="30" /> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" height="30" /> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="30" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" height="30"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" height="30" />
+  </code>
 </p>
 
 <p>

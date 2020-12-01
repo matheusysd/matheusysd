@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there, I'm Matheus Domingos, a Full Stack Software Development Student from Brazil. Currently I'm studying at [Trybe](https://www.betrybe.com/):rocket:.
+Hi there, I'm Matheus Domingos, a Full Stack Software Development Student from Brazil. Currently I'm studying @ [Trybe](https://www.betrybe.com/):rocket: and working as a Software Developer @ [Conta Zap](https://www.contazap.com.br/).
 
 - 🔭 I'm always focused on improve my skills as a web developer.
 - 🌱 At moment I'm studying backend development.

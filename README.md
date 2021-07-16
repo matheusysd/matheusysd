@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there, I'm Matheus Domingos, a Full Stack Software Development Student from Brazil. Currently I'm working @ [Trybe](https://www.betrybe.com/):rocket:.
+Hi there, I'm Matheus Domingos, a Full Stack Software Development from Brazil. Currently I'm working @ [Trybe](https://www.betrybe.com/):rocket: as Instructor.
 
 - 🔭 I'm always focused on improve my skills as a web developer.
-- 🌱 At moment I'm studying backend development.
-- :book: I'm interested in Node, Ruby, PostgreSQL, MySQL.
+- 🌱 At moment I'm learning Elixir.
 
-Languages, tools and frameworks:
+<!-- Languages, tools and frameworks:
 <p align="left">
   <code>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
@@ -46,5 +45,5 @@ Languages, tools and frameworks:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusysd&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="matheusysd" width="400"/>
 </p>
-
+ -->
 

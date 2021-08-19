@@ -20,6 +20,10 @@ Hi there, I'm Matheus Domingos, a Full Stack Software Developer from Brazil. Cur
 - 🔭 I'm always focused on improve my skills as a web developer.
 - 🌱 At moment I'm learning Elixir.
 
+I speak
+  - 🇧🇷 Portuguese: Native
+  - 🇬🇧 English: Advanced
+
 <!-- Languages, tools and frameworks:
 <p align="left">
   <code>

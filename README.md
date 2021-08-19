@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there, I'm Matheus Domingos, a Full Stack Software Development from Brazil. Currently I'm working @ [Trybe](https://www.betrybe.com/):rocket: as Instructor.
+Hi there, I'm Matheus Domingos, a Full Stack Software Developer from Brazil. Currently I'm working @ [Trybe](https://www.betrybe.com/):rocket: as Instructor.
 
 - 🔭 I'm always focused on improve my skills as a web developer.
 - 🌱 At moment I'm learning Elixir.

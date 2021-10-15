@@ -22,7 +22,7 @@ Hi there, I'm Matheus Domingos, a Full Stack Software Web Developer from Brazil.
 
 I speak
   - 🇧🇷 Portuguese: Native
-  - 🇬🇧 English: Advanced
+  - 🇺🇸 English: Advanced
 
 <!-- Languages, tools and frameworks:
 <p align="left">

@@ -19,9 +19,12 @@ Hello,
 
 I'm a brazilian software engineer currently working @ [The SilverLogic](https://tsl.io/). There I work mostly with React and Python.
 
-📖 I'm currently learning about DevOps.
+📖 I'm currently learning:
+  - DevOps ♾️
+  - The best way to manage my notes 📝
+  - How to better organize my Github, LinkedIn and other social networks 📚
 
-I speak
+🗣️ I speak:
   - 🇧🇷 Portuguese: Native
   - 🇺🇸 English: Advanced
   - Aiming a third language 🤞🏾 (🇪🇸/🇩🇪)

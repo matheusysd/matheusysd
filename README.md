@@ -22,7 +22,7 @@ I'm a brazilian software engineer currently working @ [The SilverLogic](https://
 📖 I'm currently learning:
   - DevOps ♾️
   - The best way to manage my notes 📝
-  - How to better organize my Github, LinkedIn and other social media 📚
+  - How to better organize my Github, LinkedIn and other social networks 📚
 
 🗣️ I speak:
   - 🇧🇷 Portuguese: Native

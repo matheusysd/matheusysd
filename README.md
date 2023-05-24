@@ -27,7 +27,7 @@ I'm a brazilian software engineer currently working @ [The SilverLogic](https://
 🗣️ I speak:
   - 🇧🇷 Portuguese: Native
   - 🇺🇸 English: Advanced
-  - Aiming a third language 🤞🏾 (🇪🇸/🇩🇪)
+  - Aiming a third language 🤞🏾 (🇩🇪/🇪🇸)
 
   <!-- [![My Skills](https://skillicons.dev/icons?i=git,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react)](https://skillicons.dev) -->
 

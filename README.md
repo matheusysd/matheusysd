@@ -22,11 +22,10 @@ I'm a brazilian software engineer currently working @ [The SilverLogic](https://
 📖 I'm currently learning:
   - DevOps ♾️
   - The best way to manage my notes 📝
-  - How to better organize my Github, LinkedIn and other social networks 📚
 
 🗣️ I speak:
-  - 🇧🇷 Portuguese: Native
-  - 🇺🇸 English: Advanced
+  - 🇧🇷 Portuguese
+  - 🇺🇸 English
   - Aiming a third language 🤞🏾 (🇩🇪/🇪🇸)
 
   <!-- [![My Skills](https://skillicons.dev/icons?i=git,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react)](https://skillicons.dev) -->

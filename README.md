@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 Hello,
 
-I'm a brazilian software engineer currently working @ [The SilverLogic](https://tsl.io/). There I work mostly with React and Python.
-
-📖 I'm currently learning:
-  - DevOps ♾️
-  - The best way to manage my notes 📝
+I'm a brazilian software engineer currently working @ [The SilverLogic](https://tsl.io/). There I work mostly with React, Python and some DevOps tasks.
 
 🗣️ I speak:
   - 🇧🇷 Portuguese
   - 🇺🇸 English
   - Aiming a third language 🤞🏾 (🇩🇪/🇪🇸)
+
+JavaScript | TypeScript | React | Python | Django | Rails | NodeJS | Docker | AWS | K8s | Terraform | Postgres | SQL | MongoDB | Scrum | Elixir
+
+
 
   <!-- [![My Skills](https://skillicons.dev/icons?i=git,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react)](https://skillicons.dev) -->
 
